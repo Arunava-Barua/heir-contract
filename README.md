@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+# Coverage
+![alt text](image.png)
+
+# Tests
+![alt text](image-1.png)
